@@ -1,3 +1,3 @@
 # large_file_upload
-- Front end: JS
+- Frontend: JS
 - Backend: Python
