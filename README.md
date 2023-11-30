@@ -1,2 +1,3 @@
 # large_file_upload
-大文件上传 js+python代码
+- Front end: JS
+- Backend: Python
